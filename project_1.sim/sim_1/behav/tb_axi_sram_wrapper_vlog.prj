@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../../project_riscv/project_riscv.srcs/sources_1/new/sram.v"
+sv xil_defaultlib  "../../../../project_riscv/project_riscv.srcs/sources_1/new/sram_wrap.sv"
+sv xil_defaultlib  "../../../../project_riscv/project_riscv.srcs/sim_1/new/final_tb.sv"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,8 @@
+0.6
+2016.4
+Jan 23 2017
+19:37:30
+C:/rv with sram/project_riscv/project_1/project_1.sim/sim_1/behav/glbl.v,1485222234,verilog,,,,glbl,,,,,,,,
+C:/rv with sram/project_riscv/project_riscv/project_riscv.srcs/sim_1/new/final_tb.sv,1791456096,systemVerilog,,,,tb_axi_sram_wrapper,,,,,,,,
+C:/rv with sram/project_riscv/project_riscv/project_riscv.srcs/sources_1/new/sram.v,1791456096,verilog,,,,sram_16x32_freepdk45,,,,,,,,
+C:/rv with sram/project_riscv/project_riscv/project_riscv.srcs/sources_1/new/sram_wrap.sv,1791456096,systemVerilog,,,,axi_sram_wrapper,,,,,,,,
